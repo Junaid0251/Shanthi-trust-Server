@@ -1,0 +1,4 @@
+D:\trust\ShanthiEmpowerment\ShantiEmpowermentLogic\bin\Debug\ShantiEmpowermentLogic.dll
+D:\trust\ShanthiEmpowerment\ShantiEmpowermentLogic\bin\Debug\ShantiEmpowermentLogic.pdb
+D:\trust\ShanthiEmpowerment\ShantiEmpowermentLogic\obj\Debug\ShantiEmpowermentLogic.dll
+D:\trust\ShanthiEmpowerment\ShantiEmpowermentLogic\obj\Debug\ShantiEmpowermentLogic.pdb
